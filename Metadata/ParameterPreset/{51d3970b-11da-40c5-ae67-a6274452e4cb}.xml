@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{51d3970b-11da-40c5-ae67-a6274452e4cb}">
+		<property name="name">
+			<value>Boss Stages</value>
+		</property>
+		<relationship name="folder">
+			<destination>{a1a40dc7-4a2d-4d65-9dcf-7ac1c0ffb89a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{fe8dc689-bc86-461f-b9df-5d0db0bb769b}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{fe8dc689-bc86-461f-b9df-5d0db0bb769b}">
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<relationship name="modulators">
+			<destination>{f177786d-b785-423c-8f52-423820830747}</destination>
+		</relationship>
+	</object>
+	<object class="SeekModulator" id="{f177786d-b785-423c-8f52-423820830747}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>cursorPosition</value>
+		</property>
+		<property name="speedAscending">
+			<value>0.25</value>
+		</property>
+	</object>
+</objects>
