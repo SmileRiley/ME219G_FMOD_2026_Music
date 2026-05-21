@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="EncodableAsset" id="{43d07985-c9c8-46e5-b825-4f3cd2624a37}">
+		<property name="color">
+			<value>Blue Light 2</value>
+		</property>
 		<property name="assetPath">
 			<value>Cutscene/</value>
 		</property>

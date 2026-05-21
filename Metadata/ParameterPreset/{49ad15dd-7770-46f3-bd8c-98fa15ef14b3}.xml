@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="ParameterPreset" id="{7052665b-61cf-43bc-ace1-1a733caaaf89}">
+	<object class="ParameterPreset" id="{49ad15dd-7770-46f3-bd8c-98fa15ef14b3}">
 		<property name="name">
-			<value>GlobalProggression</value>
+			<value>Combat</value>
 		</property>
 		<relationship name="folder">
-			<destination>{a1a40dc7-4a2d-4d65-9dcf-7ac1c0ffb89a}</destination>
+			<destination>{1245282f-64d2-49a5-a193-db803b82b2df}</destination>
 		</relationship>
 		<relationship name="parameter">
-			<destination>{7f5a6b28-1d5e-415d-bb89-a8582fb5e420}</destination>
+			<destination>{be665770-e66d-44f2-9017-621c6e962e5e}</destination>
 		</relationship>
 	</object>
-	<object class="GameParameter" id="{7f5a6b28-1d5e-415d-bb89-a8582fb5e420}">
-		<property name="maximum">
-			<value>3</value>
-		</property>
+	<object class="GameParameter" id="{be665770-e66d-44f2-9017-621c6e962e5e}">
 		<property name="isGlobal">
 			<value>true</value>
 		</property>
@@ -25,18 +22,18 @@
 			<value>false</value>
 		</property>
 		<relationship name="modulators">
-			<destination>{f2220e3b-74ef-4bd7-8d75-dd08d3161241}</destination>
+			<destination>{ec3e6637-b310-493c-a309-c00841286a4d}</destination>
 		</relationship>
 	</object>
-	<object class="SeekModulator" id="{f2220e3b-74ef-4bd7-8d75-dd08d3161241}">
+	<object class="SeekModulator" id="{ec3e6637-b310-493c-a309-c00841286a4d}">
 		<property name="nameOfPropertyBeingModulated">
 			<value>cursorPosition</value>
 		</property>
 		<property name="speedAscending">
-			<value>0.32999998331069946</value>
+			<value>0.98999994993209839</value>
 		</property>
 		<property name="speedDescending">
-			<value>0.32999998331069946</value>
+			<value>0.99000000953674316</value>
 		</property>
 		<property name="asymmetric">
 			<value>true</value>

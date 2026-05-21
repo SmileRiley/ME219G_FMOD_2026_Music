@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="EncodableAsset" id="{412b7024-5a86-40ef-a1b5-affcd65ab094}">
+		<property name="color">
+			<value>Blue Light 2</value>
+		</property>
 		<property name="assetPath">
 			<value>Enemies/</value>
 		</property>
