@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{f8c76f09-6e31-437c-a937-d89c70d450d5}">
+	<object class="AudioFile" id="{6c025812-2e24-48c7-872e-854ea6bc1af9}">
 		<property name="assetPath">
-			<value>Music/Boss/Boss Music Stage 1.wav</value>
+			<value>Music/Boss/Boss Music Stage 2.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
