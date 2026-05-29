@@ -24,6 +24,7 @@
 		<relationship name="effects">
 			<destination>{306d568e-ae32-4303-b662-811d4b8fc303}</destination>
 			<destination>{14dd7158-2944-4d76-b92a-3cdfdc9f1f91}</destination>
+			<destination>{a735eb87-2677-4c12-9311-e05aba1306e6}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{cc2e5df1-4ac3-4db2-b191-b328db48051a}" />
@@ -35,5 +36,10 @@
 		<relationship name="mixerReturn">
 			<destination>{5d55949f-00df-403a-8c9c-e587bdaa705c}</destination>
 		</relationship>
+	</object>
+	<object class="MultibandEqEffect" id="{a735eb87-2677-4c12-9311-e05aba1306e6}">
+		<property name="frequencyA">
+			<value>22000</value>
+		</property>
 	</object>
 </objects>
