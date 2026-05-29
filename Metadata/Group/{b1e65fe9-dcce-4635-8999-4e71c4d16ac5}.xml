@@ -38,8 +38,17 @@
 		</relationship>
 	</object>
 	<object class="MultibandEqEffect" id="{a735eb87-2677-4c12-9311-e05aba1306e6}">
+		<property name="filterTypeB">
+			<value>14</value>
+		</property>
 		<property name="frequencyA">
 			<value>22000</value>
+		</property>
+		<property name="frequencyB">
+			<value>20.0000019</value>
+		</property>
+		<property name="qualityB">
+			<value>0.570603848</value>
 		</property>
 	</object>
 </objects>

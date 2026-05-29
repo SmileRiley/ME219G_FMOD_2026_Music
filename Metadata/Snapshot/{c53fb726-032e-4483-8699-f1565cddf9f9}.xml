@@ -23,6 +23,9 @@
 			<destination>{741617f7-456b-4385-8f84-d04559ec35ca}</destination>
 			<destination>{061063ae-d98b-466b-a372-75d6af6bd745}</destination>
 			<destination>{e066889f-2aa9-41b2-b87a-1b57e2f3a432}</destination>
+			<destination>{c8975941-10d9-4d4d-865a-46bb03158ce7}</destination>
+			<destination>{de7f4c70-1850-4405-a44d-09467ca050ff}</destination>
+			<destination>{955c2053-0976-441e-aebb-cfba9e68d9f5}</destination>
 		</relationship>
 		<relationship name="snapshotTracks">
 			<destination>{07080b8b-f8c2-4866-9c0c-7d142d612733}</destination>
@@ -48,7 +51,7 @@
 			<value>frequencyA</value>
 		</property>
 		<property name="value">
-			<value>660</value>
+			<value>21999.9902</value>
 		</property>
 		<relationship name="automatableObject">
 			<destination>{a735eb87-2677-4c12-9311-e05aba1306e6}</destination>
@@ -59,7 +62,40 @@
 			<value>qualityA</value>
 		</property>
 		<property name="value">
-			<value>0.707000017</value>
+			<value>0.864793897</value>
+		</property>
+		<relationship name="automatableObject">
+			<destination>{a735eb87-2677-4c12-9311-e05aba1306e6}</destination>
+		</relationship>
+	</object>
+	<object class="SnapshotProperty" id="{c8975941-10d9-4d4d-865a-46bb03158ce7}">
+		<property name="propertyName">
+			<value>frequencyB</value>
+		</property>
+		<property name="value">
+			<value>833.11792</value>
+		</property>
+		<relationship name="automatableObject">
+			<destination>{a735eb87-2677-4c12-9311-e05aba1306e6}</destination>
+		</relationship>
+	</object>
+	<object class="SnapshotProperty" id="{de7f4c70-1850-4405-a44d-09467ca050ff}">
+		<property name="propertyName">
+			<value>qualityB</value>
+		</property>
+		<property name="value">
+			<value>0.570603848</value>
+		</property>
+		<relationship name="automatableObject">
+			<destination>{a735eb87-2677-4c12-9311-e05aba1306e6}</destination>
+		</relationship>
+	</object>
+	<object class="SnapshotProperty" id="{955c2053-0976-441e-aebb-cfba9e68d9f5}">
+		<property name="propertyName">
+			<value>gainB</value>
+		</property>
+		<property name="value">
+			<value>0</value>
 		</property>
 		<relationship name="automatableObject">
 			<destination>{a735eb87-2677-4c12-9311-e05aba1306e6}</destination>
