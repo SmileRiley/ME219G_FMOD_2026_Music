@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{e71d0fe9-009b-4434-bc83-aba380c4ac96}">
+		<property name="note">
+			<value>Detta Event innhehåller Bossmusiken samt bossens death i slutet. </value>
+		</property>
 		<property name="name">
 			<value>BossMusic</value>
 		</property>

@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{9f648023-09ba-4d34-8384-3535d8ef962c}">
+		<property name="note">
+			<value>Detta Event innehåller stingern för både nycklarna man plockar upp men även vapnet man hittar och använder i zone 3. </value>
+		</property>
 		<property name="name">
-			<value>KeyStinger</value>
+			<value>PickupStinger</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -101,7 +104,7 @@
 			<value>10</value>
 		</property>
 		<property name="name">
-			<value>Audio 1</value>
+			<value>Pickup Stinger</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{29a37535-bc56-414d-8b0e-8bea5980cea7}</destination>

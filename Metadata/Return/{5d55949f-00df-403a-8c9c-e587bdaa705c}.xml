@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="MixerReturn" id="{5d55949f-00df-403a-8c9c-e587bdaa705c}">
+		<property name="note">
+			<value>Detta är CaveReverbet som läggs på musiken i Zone 4 för att det ska kännas mer som i en grotta, då hela denna zone är under jorden. 
+</value>
+		</property>
 		<property name="name">
 			<value>CaveReverb</value>
 		</property>

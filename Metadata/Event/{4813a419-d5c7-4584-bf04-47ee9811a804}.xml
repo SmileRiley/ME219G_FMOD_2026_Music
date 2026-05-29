@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{4813a419-d5c7-4584-bf04-47ee9811a804}">
+		<property name="note">
+			<value>Detta Event innehåller enbart Meny Musiken</value>
+		</property>
 		<property name="name">
 			<value>MenuMusic</value>
 		</property>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{2ebe7bd4-1fef-4302-8378-c095526cefe0}">
+		<property name="note">
+			<value>Detta Event innehåller Game Over musiken som spelas när man dör helt. Det finns även ett Snapshot instrument i detta Event som dämpar den vanliga musiken så att man enbart hör Game Over Stingern. </value>
+		</property>
 		<property name="name">
 			<value>GameOverStinger</value>
 		</property>
@@ -142,7 +145,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{a11f91c1-a539-410e-b94f-5f391d6bde46}">
 		<property name="name">
-			<value>Audio 1</value>
+			<value>GameOverSnap</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{eeb4c23f-fbbd-4a21-92d2-579ffd653461}</destination>
